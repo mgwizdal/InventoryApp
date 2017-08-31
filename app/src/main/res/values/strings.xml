@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="unsaved_changes_dialog_msg">Do you want to abandon your note?</string>
+
+    <string name="discard_all">Delete All</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="yes_msg">Yes!</string>
+
+    <string name="details_delete_product_successful">Product deleted</string>
+
+    <string name="details_delete_product_failed">Error with deleting product</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="empty_view_title_text">Why it is so empty?</string>
+
+    <string name="add_title_text_view">Title:</string>
+
+    <string name="add_title_hint">Type something...</string>
+
+
+    <string name="add_activity_label">Add new item!</string>
+
+    <string name="delete_all_msg">Are you sure?</string>
+
+    <string name="no_discard">No!</string>
+
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="permission_rationale">Location permission is needed for important functionality</string>
+
+    <string name="dollar_sign">$</string>
+    <string name="quantity_plus">+</string>
+    <string name="quantity_minus">-</string>
+    <string name="add_quantity_text_view">Quantity:</string>
+    <string name="add_price_text_view">Price:</string>
+    <string name="start_by_adding_new_item">Start by adding new Item!</string>
+    <string name="dummy_picture_string_uri">android.resource://com.example.android.inventoryapp/</string>
+    <string name="dummy_email">default-pictures@gmail.com</string>
+    <string name="dummy_title">Default Image</string>
+    <string name="nothing_to_sale_msg">There is nothing to sale :(</string>
+    <string name="add_title_error">There must be a title!</string>
+    <string name="add_price_error">Invalid price!</string>
+    <string name="add_order_error">There must be supplier!</string>
+    <string name="add_quantity_error">There must be at least 1!</string>
+    <string name="empty_title_title">There must be a picture!</string>
+    <string name="open_from_gallery">OPEN FROM GALLERY</string>
+    <string name="supplier_email">Supplier Email:</string>
+    <string name="order_from_supplier">ORDER FROM SUPPLIER</string>
+    <string name="item_sale_button">Sale</string>
+
+
+</resources>
